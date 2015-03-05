@@ -118,16 +118,17 @@ Theodor W. Adorno
 ##四、可计算性
 可计算性(Computability)
 关注事物本身可以被计算的程度
-Computability is the ability to solve a problem in an effective manner。
-The computability of a problem is closely linked to the existence of an algorithm to solve the problem.
+Computability is the ability to solve a problem in an effective manner。
+The computability of a problem is closely linked to the existence of an algorithm to solve the problem.
 算法的可计算函数
 图灵停机：你能用编程语言写出来并运行的都是可计算函数
 可计算化(Computational)
 关注事物本身可以被计算的方式
 可计算化思维（computational thinking）
 任务的分解与自动化实现。
+
 Analyzing and logically organizing data
-Data modeling, data abstractions, and simulations
+Data modeling, data abstractions, and simulations
 Formulating problems such that computers may assist
 Identifying, testing, and implementing possible solutions
 Automating solutions via algorithmic thinking
@@ -163,6 +164,7 @@ The response time
 成功的秘密
 泊松(Simeon-Denis Poisson,1781—1840)
 法国数学家。
+
 五、定义计算传播学
 计算传播学（computational communication research）是可计算社会科学（computational social science）的重要分支。
 主要关注人类传播行为的可计算性基础。
