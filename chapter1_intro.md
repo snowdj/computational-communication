@@ -242,15 +242,15 @@ D. Watts, A twenty-first century science. Nature 445, 489 (2007).If handled appr
 - Google Flu Trends 使用搜索引擎预测流感
 
 理论的最高标准
-Per Bak:“It puzzles me that geophysicists show little interest in underlying principles of their science. Perhaps they take it for granted that the earth is so complicated and messy that no general principles apply”. 
+
+Per Bak:“It puzzles me that geophysicists show little interest in underlying principles of their science. Perhaps they take it for granted that the earth is so complicated and messy that no general principles apply”.
+
 Hack定律
+
 Hack定律指出，在河流网络中，支流的长度（stream length）L和相对应的蓄水盆地面积（basin area）A之间存在如下标度关系：L ~ Ah
 其中h的数值在大多数水系的实证数据中都被测为0.6左右。
 
 
-	
-欢迎关注@计算传播学
-感谢聆听，期待交流。
 
 ##参考文献
 [^1]: Lazer et al (2009) Compuational social science. Science. V323. 6 Feb 2009
