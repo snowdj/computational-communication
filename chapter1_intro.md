@@ -138,32 +138,7 @@ Generalizing and applying this process to other problems
 他山之石：网络科学
 We live life in the network
 
-网络科学
-欧拉
-图论（graph theory）
-哥尼斯堡七桥问题：一个人怎样才能一次走遍七座桥，每座桥只走过一次，最后回到出发点？
 
-网络科学
-斯坦利·米尔格兰姆(Stanley Milgram)
-六度分隔
-小世界现象
-         “The Small-World Phenomenon”
-
-网络科学
-Watts and Strogatz (1999)
-以一定概率随机重连规则网络中的连边
-可以大幅度降低网络的平均路径长度
-可以有效增加网络的聚类系数
-
-网络科学
-Barabási, Albert （1999）网络度分布具有标度不变特性
-优先链接机制
-网络科学
-The response time
-间隔时间的幂律分布
-成功的秘密
-泊松(Simeon-Denis Poisson,1781—1840)
-法国数学家。
 
 五、定义计算传播学
 计算传播学（computational communication research）是可计算社会科学（computational social science）的重要分支。
