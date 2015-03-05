@@ -116,10 +116,9 @@ Herbert Marshall McLuhan
 Theodor W. Adorno
 
 ##四、可计算性
-可计算性(Computability)
-关注事物本身可以被计算的程度
-Computability is the ability to solve a problem in an effective manner。
-The computability of a problem is closely linked to the existence of an algorithm to solve the problem.
+可计算性(Computability)关注事物本身可以被计算的程度
+Computability is the ability to solve a problem in an effective manner。The computability of a problem is closely linked to the existence of an algorithm to solve the problem.
+
 算法的可计算函数
 图灵停机：你能用编程语言写出来并运行的都是可计算函数
 可计算化(Computational)
@@ -134,24 +133,19 @@ Identifying, testing, and implementing possible solutions
 Automating solutions via algorithmic thinking
 Generalizing and applying this process to other problems
 
-可计算性与科学研究
-他山之石：网络科学
-We live life in the network
 
-
-
-五、定义计算传播学
-计算传播学（computational communication research）是可计算社会科学（computational social science）的重要分支。
-主要关注人类传播行为的可计算性基础。
+##五、定义计算传播学
+计算传播学（computational communication research）是可计算社会科学（computational social science）的重要分支。主要关注人类传播行为的可计算性基础。
 以传播网络分析、传播文本挖掘、数学建模等为主要分析工具
 （以非介入地方式）大规模地收集并分析人类传播行为数据
-挖掘人类传播行为背后的模式和法则
-分析模式背后的生成机制与基本原理
-可以被广泛地应用于数据新闻和计算广告等场景
-注重编程训练、数学建模、可计算思维
-计算传播学实验研究中心
-计算传播学研究中心
-数据科学实验室
+- 挖掘人类传播行为背后的模式和法则
+- 分析模式背后的生成机制与基本原理
+- 可以被广泛地应用于数据新闻和计算广告等场景
+- 注重编程训练、数学建模、可计算思维
+
+- 计算传播实验研究中心
+- 计算传播学研究中心
+- 数据科学实验室
 
 
 计算传播学网站
@@ -162,35 +156,37 @@ http://site.douban.com/146782/
 http://www.weibo.com/jisuanchuanbo
 计算传播学邮件组
 https://groups.google.com/group/computational-communication
-Meme背后的社区
-Meme为什么能持续流行？
-社区驱动 + 解决问题
+
+Meme背后的社区: Meme为什么能持续流行？
+
+- 社区驱动 + 解决问题
 Big data和machine learning：互联网公司
-特征工程
-Open science： 学术期刊、学会和大学
-出版流程
-Data journalism：媒体、新闻从业者、程序员
-可视化需求
-Network science：网络研究者、社交网站
-复杂网络研究
+    -特征工程
+- Open science： 学术期刊、学会和大学
+    - 出版流程
+- Data journalism：媒体、新闻从业者、程序员
+    - 可视化需求
+- Network science：网络研究者、社交网站
+    - 复杂网络研究
+    - 
 寻找可计算化的基因
 我们的愿景：寻找人类传播行为可计算化的基因。
 基因是生物学飞跃的原因，货币是经济学发展的关键。人类传播行为所隐藏的计算化“基因”是什么？
 计算传播学致力于寻找传播学可计算化的基因、学习和传播可计算化思维/方法（电子化数据收集能力、编程能力、数学建模能力、网络分析、文本挖掘）、了解和训练计算传播学的社会化应用方法（数据新闻、计算广告、可视化等）。
-六、通往计算传播学之路
+
+##六、通往计算传播学之路
+- 开放数据 (open data)
+- 开放科学（open science）
+- 开源工具（open source）:R和Python
+
 方法：从数据到模型
-开放数据 (open data)
-开放科学（open science）
-工具
-开源（open source）
-R和Python
 
 
-大数据：数字化“指纹”
-数字化“指纹”
-互联网数据
-D. Watts, A twenty-first century science. Nature 445, 489 (2007).
-If handled appropriately, data about Internet-based communication and interactivity could revolutionize our understanding of collective human behaviour.
+大数据
+- 数字化“指纹”
+- 互联网数据
+- 
+D. Watts, A twenty-first century science. Nature 445, 489 (2007).If handled appropriately, data about Internet-based communication and interactivity could revolutionize our understanding of collective human behaviour.
 很少有人会认为社会科学会成为21世纪科学的中心
 … 因为社会现象是最难解决的科学问题之一
 … 社会现象当中卷入了海量的异质性的个体之间的互动
@@ -198,52 +194,52 @@ If handled appropriately, data about Internet-based communication and interactiv
 互联网公司与研究者的合作
 
 学科基础
-计算语言学
-传统语言学
-计算语言学
-机器翻译
-语音识别
+- 网络科学
+- 计算语言学
+    - 机器翻译
+    - 语音识别
+    - 词云
+    - 语义网络
+    - 情感分析
+    - 文本聚类
+    - 主题模型
+- 数据科学
 
-词云
-语义网络
-情感分析
-文本聚类
-主题模型
-
-数据科学
 模式或法则
-为什么强调模式？
-P值：统计显著的琐碎
+- 为什么强调模式？
+- P值：统计显著的琐碎
+
 理论模式&数据模式
-理论模式：《自杀论》
-居住地：城市高于农村
-性别：男性高于女性 
-宗教：新教高于天主教 
-年龄：老年人多于年轻人
-数据模式：幂律
-一个涌现的模式背后对应的社会机制
-模式或法则：异速增长定律
-广义的异速增长
-注意力动力学
-在线社交网络
-选举行为可以通过社交网络传染
-手机通话网络
-传播的多样性制约社会经济的发展
-情感分析
-预测股票市场？
-Emotion
-Calm
-Alert
-Sure
-Vital
-Kind
-Happy
-The Twitter Political Index
-预测总统选举
-实际结果
-Facebook and Twitter
-Google Flu Trends
-使用搜索引擎预测流感
+
+- 理论模式：《自杀论》
+    - 居住地：城市高于农村
+    - 性别：男性高于女性
+    - 宗教：新教高于天主教
+    - 年龄：老年人多于年轻人
+- 数据模式：幂律
+    - 一个涌现的模式背后对应的社会机制
+        - 模式或法则：异速增长定律
+            - 广义的异速增长
+
+- 注意力动力学
+- 在线社交网络
+- 选举行为可以通过社交网络传染
+- 手机通话网络
+    - 传播的多样性制约社会经济的发展
+- 情感分析
+    - 预测股票市场？
+        - Emotion
+        - Calm
+        - Alert
+        - Sure
+        - Vital
+        - Kind
+        - Happy
+- The Twitter Political Index
+- 预测总统选举
+    - 实际结果
+        - Facebook and Twitter
+- Google Flu Trends 使用搜索引擎预测流感
 
 理论的最高标准
 Per Bak:“It puzzles me that geophysicists show little interest in underlying principles of their science. Perhaps they take it for granted that the earth is so complicated and messy that no general principles apply”. 
