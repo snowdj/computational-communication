@@ -6,4 +6,5 @@
 * [第三章 文本挖掘](chapter3_textmining.md)
 * [第四章 数据科学](chapter4_datascience.md)
 * [工作坊简介](workshop_intro.md)
+* 第五章 编程工具
 
