@@ -53,37 +53,42 @@ Sheldon：Geology is not a real science
 - 跨学科视野
 - 研究脉络
 
-二、如何认识世界？
-洞穴之喻
-开放思维
+##二、如何认识世界？
+洞穴之喻&开放思维
+
 康德：“我们所有的知识起源于感知，然后发展为理解，终结为理性。没有比理性更高的东西。”
-Immanuel Kant: All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason. 
-理论的三个比喻
-理论即逻辑的组合。
-理论的沙漏模型
-学术论文的结构
-以小见大
-问题驱动
-理论驱动
-兴趣驱动
-研究设计
-关于世界的科学
-三、科学的四重境界
+Immanuel Kant: All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
+
+- 理论的三个比喻
+- 理论即逻辑的组合。
+- 理论的沙漏模型
+    - 学术论文的结构
+    - 以小见大
+    - 问题驱动
+    - 理论驱动
+    - 兴趣驱动
+    - 研究设计
+    - 关于世界的科学
+    
+##三、科学的四重境界
 科学的金字塔
-数据
-模式、定律
-机制
-原则
+- 数据
+- 模式、定律
+- 机制
+- 原则
+
 引力研究为例
-托勒密：地球处于宇宙中心
-引力第一重境界
-哥白尼、弟谷
-引力第二重境界
-开普勒、伽利略
-引力第三重境界
-牛顿
-引力的第四重境界
-爱因斯坦
+- 引力第一重境界
+    - 托勒密：地球处于宇宙中心
+    - 哥白尼：地心说
+    - 弟谷
+- 引力第二重境界
+    - 开普勒、伽利略
+- 引力第三重境界
+    - 牛顿
+- 引力的第四重境界
+    - 爱因斯坦
+
 等待牛顿
 传播学在哪里？
 
@@ -96,7 +101,7 @@ Harold Dwight Lasswell
 Carl Iver Hovland 
 
   
-Everett Rogers  
+Everett Rogers 
 
 Maxwell McCombs
 Elihu Katz
@@ -108,8 +113,9 @@ George Gerbner
 Wilbur Lang Schramm 
 Walter Lippmann
 Herbert Marshall McLuhan
-Theodor W. Adorno
-四、可计算性
+Theodor W. Adorno
+
+##四、可计算性
 可计算性(Computability)
 关注事物本身可以被计算的程度
 Computability is the ability to solve a problem in an effective manner。
