@@ -13,28 +13,31 @@
     - 工具
     - 案例
 
-一、引言
-计算社会科学
-Lazer et al (2009) Compuational social science. Science. V323. 6 Feb 2009
-计算社会科学正在涌现
-大规模的数据收集和数据分析
-网络科学视角
-揭示个体和群体行为的模式
-D. Watts, A twenty-first century science. Nature 445, 489 (2007).
-互联网大数据
-网络科学视角
 
-网络科学（network science）
-计算语言学 （computational linguistics）
-数据科学（data science）
+##一、引言：计算社会科学时代的到来
 
-社会计算 （social computing）
-普适计算（ubiquitous computing）
+Lazer等人2009年在《科学》杂志上发表了题为《计算社会科学》（ Compuational social science）的文章。在这篇论文当中，计算社会可续的概念被正式提出。
 
-可视化 （visualization）
+- 计算社会科学正在涌现
+    - 大规模的数据收集和数据分析
+    - 网络科学视角
+    - 揭示个体和群体行为的模式
 
-数据新闻学 (data journalism)
-计算广告学 (computational advising)
+其实早在2007年，网络科学的重要研究者D. Watts就已经在《自然》杂志上发表了题为《一个二十一世界的科学》的论文[^1]。 
+- 互联网大数据
+- 网络科学视角
+
+- 网络科学（network science）
+- 计算语言学 （computational linguistics）
+- 数据科学（data science）
+
+- 社会计算 （social computing）
+- 普适计算（ubiquitous computing）
+
+- 可视化 （visualization）
+
+- 数据新闻学 (data journalism)
+- 计算广告学 (computational advising)
 
 	
 计算社会科学是科学吗？
@@ -42,9 +45,10 @@ Sheldon：Geology is not a real science
 
 计算社会科学对于传播学的意义？
 
-二、如何认识计算社会科学？
-跨学科视野
-研究脉络
+如何认识计算社会科学？
+- 跨学科视野
+- 研究脉络
+
 二、如何认识世界？
 洞穴之喻
 开放思维
