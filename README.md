@@ -5,6 +5,35 @@
 
 围绕着计算传播学这一核心概念，本书将主要分为三部分，第一部分介绍计算传播学的理论起源，包括“计算”和“传播”各自的含义及其关联，提出计算传播学的基本理论架构；第二部分，则主要介绍可计算思维在传播学研究和实务当中的应用；第三部分则主要总结既有的理论与应用。
 
+本书是采用Gitbook撰写并发布的，因此需要感谢Gitbook团队和Github网站。Gitbook非常好地支持了markdown写作，包括数学公式的展现（例如$$E = MC^2$$）和编程代码的显现：
+
+
+```Python
+from scholarNetwork import scholarNetwork
+import matplotlib.pyplot as plt
+import networkx as nx
+
+## Set the seed of crawler
+seed = 'https://scholar.google.nl/citations?user=nNdt_G8AAAAJ&hl=en&oe=ASCII'
+
+## Nodes number. Start with a small one.
+Nmax = 21
+
+## Get the graph g
+g = scholarNetwork.getGraph(seed, Nmax)
+
+## plot the network
+pos=nx.spring_layout(g) #setup the layout
+
+nx.draw(g, pos, node_shape = 'o',
+        edge_color = 'gray', width = 0.5,
+        with_labels = True, arrows = True)
+plt.show()
+```
+
+
+
+
 
 王成军 
 
