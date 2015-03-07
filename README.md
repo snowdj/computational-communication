@@ -5,24 +5,7 @@
 
 围绕着计算传播学这一核心概念，本书将主要分为三部分，第一部分介绍计算传播学的理论起源，包括“计算”和“传播”各自的含义及其关联，提出计算传播学的基本理论架构；第二部分，则主要介绍可计算思维在传播学研究和实务当中的应用；第三部分则主要总结前两部分内容。
 
-本书是采用Gitbook撰写并发布的，因此需要感谢Gitbook团队和Github网站。Gitbook是一个基于markdown发布电子书的网站。它提供免费的在线编辑界面和[单机编辑器](https://github.com/GitbookIO/editor/releases)。Gitbook非常好地支持了markdown写作，包括数学公式的展现（例如$$E = MC^2$$）和编程代码的显现，如下所示：
-
-
-```Python
-from scholarNetwork import scholarNetwork
-
-## Set the seed of crawler
-seed = 'https://scholar.google.nl/citations?user=nNdt_G8AAAAJ&hl=en&oe=ASCII'
-
-## Nodes number. Start with a small one.
-Nmax = 21
-
-## Get the graph g
-g = scholarNetwork.getGraph(seed, Nmax)
-
-```
-
-
+本书是采用Gitbook撰写并发布的，因此需要感谢Gitbook团队和Github网站。Gitbook是一个基于markdown发布电子书的网站。它提供免费的在线编辑界面和[单机编辑器](https://github.com/GitbookIO/editor/releases)。Gitbook非常好地支持了markdown写作，包括数学公式的展现（例如$$E = MC^2$$）和编程代码的显现。读者可以在这里阅读本书网络版本：http://chengjun.gitbooks.io/computational-communication/ ，并可以通过[github](https://github.com/chengjun/computational-communication)提交关于本书的修改意见。
 
 
 
