@@ -8,4 +8,5 @@
 * [第五章 编程工具](chapter5_programming.md)
 * [第六章 数据新闻与可视化](chapter6_datajournalism_visualization.md)
 * [工作坊简介](workshop_intro.md)
+* 第二章 计算、计算性与可计算思维
 
