@@ -1,4 +1,5 @@
-第一章 计算传播学简介
+#第一章 计算传播学简介
+
 
 
 ##内容简介
@@ -16,20 +17,9 @@
 
 ##一、引言：计算社会科学时代的到来
 
-Lazer等人2009年在《科学》杂志上发表了题为《计算社会科学》（ Compuational social science）的文章,在这篇论文当中，**计算社会科学**的概念被正式提出[^1]。
-
-- 计算社会科学正在涌现
-    - 大规模的数据收集和数据分析
-    - 网络科学视角
-    - 揭示个体和群体行为的模式
-
-其实早在2007年，网络科学的重要研究者D. Watts就已经在《自然》杂志上发表了题为《一个二十一世界的科学》的论文[^2]。
+Lazer等人2009年在《科学》杂志上发表了题为《计算社会科学》（ Compuational social science）的文章,在这篇论文当中，**计算社会科学**的概念被正式提出[^1]。Lazer等人强调了大规模的数据收集和数据分析以及网络科学视角对于计算社会科学扮演者至关重要的作用，提出计算社会科学研究可以帮助研究者揭示个体和群体行为的模式。其实早在2007年，网络科学的重要研究者D. Watts就已经在《自然》杂志上发表了题为《一个二十一世纪的科学》的论文[^2]。Watts认为社会科学将成为在二十一世纪获得重要发展的研究领域，其主要原因来源于互联网大数据的使用和网络科学视角。
 
 
-
-
-- 互联网大数据
-- 网络科学视角
 
 - 网络科学（network science）
 - 计算语言学 （computational linguistics）
@@ -43,7 +33,7 @@ Lazer等人2009年在《科学》杂志上发表了题为《计算社会科学�
 - 数据新闻学 (data journalism)
 - 计算广告学 (computational advising)
 
-	
+
 计算社会科学是科学吗？
 Sheldon：Geology is not a real science
 
@@ -55,6 +45,8 @@ Sheldon：Geology is not a real science
 
 ##二、如何认识世界？
 洞穴之喻&开放思维
+
+![](./observer.png)
 
 康德：“我们所有的知识起源于感知，然后发展为理解，终结为理性。没有比理性更高的东西。”
 Immanuel Kant: All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason.
@@ -69,7 +61,7 @@ Immanuel Kant: All our knowledge begins with the senses, proceeds then to the un
     - 兴趣驱动
     - 研究设计
     - 关于世界的科学
-    
+
 ##三、科学的四重境界
 科学的金字塔
 - 数据
@@ -93,24 +85,24 @@ Immanuel Kant: All our knowledge begins with the senses, proceeds then to the un
 传播学在哪里？
 
 
-Claude Shannon 
+Claude Shannon
 
-Paul Felix Lazarsfeld 
-Kurt Zadek Lewin 
-Harold Dwight Lasswell 
-Carl Iver Hovland 
+Paul Felix Lazarsfeld
+Kurt Zadek Lewin
+Harold Dwight Lasswell
+Carl Iver Hovland
 
-  
-Everett Rogers 
+
+Everett Rogers
 
 Maxwell McCombs
 Elihu Katz
 
-Elisabeth Noelle-Neumann 
-Jürgen Habermas 
+Elisabeth Noelle-Neumann
+Jürgen Habermas
 
 George Gerbner
-Wilbur Lang Schramm 
+Wilbur Lang Schramm
 Walter Lippmann
 Herbert Marshall McLuhan
 Theodor W. Adorno
@@ -168,7 +160,7 @@ Big data和machine learning：互联网公司
     - 可视化需求
 - Network science：网络研究者、社交网站
     - 复杂网络研究
-    - 
+    -
 寻找可计算化的基因
 我们的愿景：寻找人类传播行为可计算化的基因。
 基因是生物学飞跃的原因，货币是经济学发展的关键。人类传播行为所隐藏的计算化“基因”是什么？
@@ -185,7 +177,7 @@ Big data和machine learning：互联网公司
 大数据
 - 数字化“指纹”
 - 互联网数据
-- 
+-
 D. Watts, A twenty-first century science. Nature 445, 489 (2007).If handled appropriately, data about Internet-based communication and interactivity could revolutionize our understanding of collective human behaviour.
 很少有人会认为社会科学会成为21世纪科学的中心
 … 因为社会现象是最难解决的科学问题之一
