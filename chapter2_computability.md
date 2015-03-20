@@ -17,3 +17,13 @@
 
 ##复杂性科学与集体智慧
 太阳系、全球气候、世界人口、股票市场、大脑和心脏都是一种动力系统。动力学（dynamics）或者动力系统理论所关注的是如何描述和预测从系统中各个组成部分的群体行为当中涌现出的整体层面的复杂适应行为。
+
+Computational thinking (CT) is a problem-solving process that includes (but is not limited to)
+the following characteristics:
+•	Formulating problems in a way that enables us to use a computer and other tools to help solve them.
+•	Logically organizing and analyzing data
+•	Representing data through abstractions such as models and simulations
+•	Automating solutions through algorithmic thinking (a series of ordered steps)
+•	Identifying, analyzing, and implementing possible solutions with the goal of achieving the most
+efficient and effective combination of steps and resources
+•	Generalizing and transferring this problem solving process to a wide variety of problems
